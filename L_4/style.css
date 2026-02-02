@@ -39,6 +39,7 @@
 }
 .img-container {
     width: 100%;
-    aspect-ratio: 1 / 1; /* กำหนดให้เป็นสี่เหลี่ยมจัตุรัส หรือปรับเป็น 16/9 ตามชอบ */
-    overflow: hidden;    /* ป้องกันรูปส่วนเกินล้นออกมา */
+    aspect-ratio: 1 / 1; 
+    overflow: hidden;    
+
 }
